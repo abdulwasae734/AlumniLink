@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="hero-section">
       <div className="hero-content">
-        <h1>Welcome to Alumni Connect</h1>
+        <h1>Welcome to Alumni Link</h1>
         <p>
           Stay connected with your alma mater and fellow alumni. Engage in networking, mentorship, and more through our platform.
         </p>
